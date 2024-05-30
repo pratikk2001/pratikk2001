@@ -6,9 +6,10 @@
 
 <p  align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikk2001" alt="pratikk2001" /></a> </p>
 
-- 🔭 I’m currently working on **GorillaTrend**<br>
+- 🔭 I’m currently working at **GorillaTrend**<br>
 - 🌱 I’m currently learning ReactJS, NodeJS, ExpressJS.<br>
-- 👯 I’m looking to collaborate With Full Stack Developers<br>
+- 👯 I’m looking to collaborate With **Full Stack Developer**s<br>
+- 🤝 I’m looking for help **to learn new technologies**
 - 💬 Ask me about **anything I'll make sure to provide my help as much as possible.**
 -  📫 How to reach me: **pratikkankarej18@gmail.com**<br>
 
