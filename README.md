@@ -16,7 +16,7 @@
 
 ## 🌐 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pratik-kankarej" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratik-kankarej" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pratik-kankarej-942a93200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratik-kankarej" height="30" width="40" /></a>
 <a href="https://instagram.com/pratik2211__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratik2211__" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100016783598685" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
 <a href="https://x.com/pratik_kankarej" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
