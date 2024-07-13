@@ -55,12 +55,7 @@
 <a href="https://mui.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="MUI" width="40" height="40"/>
 </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next JS" width="40" height="40"/>
-</a>
-<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40"/>
-</a>
+
 <a href="https://nodemon.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodemon/nodemon-original.svg" alt="Nodemon" width="40" height="40"/>
 </a>
