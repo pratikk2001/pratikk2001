@@ -14,9 +14,9 @@
 </br>
 
 
-- 🌱 I’m currently learning ReactJS, NodeJS, ExpressJS.<br>
 - 👯 I’m looking to collaborate With **Full Stack Developer**s<br>
 - 🤝 I’m looking for help **to learn new technologies**
+- - 🌱 I’m currently learning ReactJS, NodeJS, ExpressJS.<br>
 - 💬 Ask me about **anything I'll make sure to provide my help as much as possible.**
 -  📫 How to reach me: **pratikkankarej18@gmail.com**<br>
 
