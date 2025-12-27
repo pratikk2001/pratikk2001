@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Pratik Kankarej</h1>
 
-<h3 align="center">A Passionate Frontend Developer from India</h3>
+<h3 align="center">A Passionate Full Stack Developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pratikk2001&label=Profile%20views&color=0e75b6&style=flat" alt="pratikk2001" /> </p>
 
@@ -14,7 +14,6 @@
 </br>
 
 
-- 🔭 I’m currently working at **GorillaTrend**<br>
 - 🌱 I’m currently learning ReactJS, NodeJS, ExpressJS.<br>
 - 👯 I’m looking to collaborate With **Full Stack Developer**s<br>
 - 🤝 I’m looking for help **to learn new technologies**
