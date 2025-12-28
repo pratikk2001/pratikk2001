@@ -14,11 +14,15 @@
 </br>
 
 
-- 👯 I’m looking to collaborate With **Full Stack Developer**s<br>
-- 🤝 I’m looking for help **to learn new technologies**
-- - 🌱 I’m currently learning ReactJS, NodeJS, ExpressJS.<br>
-- 💬 Ask me about **anything I'll make sure to provide my help as much as possible.**
--  📫 How to reach me: **pratikkankarej18@gmail.com**<br>
+👯 I’m open to collaborating with Full Stack Developers on impactful projects
+
+🤝 Keen to learn and work with new technologies to build scalable solutions
+
+🌱 Currently working with Next.js, React.js, Node.js, and Express.js
+
+💬 Feel free to ask me about full-stack web development, project setup, and problem-solving
+
+📫 How to reach me: pratikkankarej18@gmail.com
 
 
 ## 🌐 Connect with me:
