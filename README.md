@@ -108,7 +108,7 @@ I build full-stack web apps end to end — from a Figma mockup to a deployed, da
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pratikk2001&theme=algolia&column=7&margin-w=10&margin-h=10&no-bg=true" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pratikk2001&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" />
 </div>
 
 ---
@@ -116,19 +116,24 @@ I build full-stack web apps end to end — from a Figma mockup to a deployed, da
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pratikk2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikk2001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pratikk2001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikk2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=pratikk2001&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<img src="https://streak-stats.demolab.com?user=pratikk2001&theme=tokyonight&hide_border=true" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikk2001&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</div>
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikk2001&theme=tokyo-night&hide_border=true" />
+
+</div>
 
 <div align="center">
 
