@@ -1,13 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0f1c,50:6d28d9,100:ec4899&height=190&section=header&text=Pratik%20Kankarej&fontSize=56&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Exploring+Generative+AI;Turning+Ideas+Into+Shipped+Code" alt="Typing SVG" />
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=pratikk2001&label=Profile%20Views&color=a855f7&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/pratikk2001?label=Followers&style=for-the-badge&color=a855f7" alt="GitHub followers" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:8e2de2&height=220&section=header&text=Pratik%20Kankarej&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20%2B%20Learning%20GenAI&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
@@ -95,7 +88,7 @@ I build full-stack web apps end to end — from a Figma mockup to a deployed, da
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-a855f7?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-8e2de2?style=flat-square)
 
 </td>
 <td>
@@ -115,16 +108,16 @@ I build full-stack web apps end to end — from a Figma mockup to a deployed, da
 ## 📈 The Numbers
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pratikk2001&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikk2001&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=pratikk2001&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikk2001&layout=compact&theme=radical&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=pratikk2001&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=pratikk2001&theme=radical&hide_border=true"/>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pratikk2001&theme=tokyonight&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pratikk2001&theme=radical&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true"/>
 </div>
 
 <br/>
@@ -141,7 +134,7 @@ I build full-stack web apps end to end — from a Figma mockup to a deployed, da
 
 <br/><br/>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=pratikk2001.pratikk2001&color=a855f7" alt="Visitor count"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=pratikk2001.pratikk2001&color=8e2de2" alt="Visitor count"/>
 
 <br/><br/>
 
@@ -149,4 +142,4 @@ I build full-stack web apps end to end — from a Figma mockup to a deployed, da
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:ec4899&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:0e75b6&height=100&section=footer" width="100%"/>
