@@ -105,7 +105,7 @@ I build full-stack web apps end to end — from a Figma mockup to a deployed, da
 
 <br/>
 
-### 🌐 Connect
+## 🌐 Connect
 
 <p align="center">
 
@@ -123,7 +123,7 @@ I build full-stack web apps end to end — from a Figma mockup to a deployed, da
 
 </p>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 
 <div align="center">
