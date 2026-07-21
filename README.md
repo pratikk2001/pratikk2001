@@ -105,40 +105,42 @@ I build full-stack web apps end to end — from a Figma mockup to a deployed, da
 
 <br/>
 
-## 📈 The Numbers
+### 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pratikk2001&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikk2001&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pratikk2001&theme=algolia&column=7&margin-w=10&margin-h=10&no-bg=true" alt="GitHub Trophies"/>
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pratikk2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikk2001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=pratikk2001&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=pratikk2001&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pratikk2001&theme=radical&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikk2001&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </div>
+
+---
+
+<div align="center">
+
+**Visitor Count**
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=pratikk2001.pratikk2001&color=0e75b6" alt="Visitor count" />
 
 <br/>
 
-## 🤝 Let's Build Something
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/pratik-kankarej-942a93200/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/pratik_kankarej" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://instagram.com/pratik2211__" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/profile.php?id=100016783598685" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="mailto:pratikkankarej18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=pratikk2001.pratikk2001&color=8e2de2" alt="Visitor count"/>
-
-<br/><br/>
-
-<i>💬 Open to full-stack projects, GenAI experiments, and good conversations about either.</i>
+<i>Ask me anything, I'm happy to help as much as possible! 🚀</i>
+<br/>
+<b>— Pratik Kankarej</b>
 
 </div>
 
