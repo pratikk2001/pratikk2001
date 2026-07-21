@@ -1,130 +1,95 @@
-
-<h1 align="center">Hi 👋, I'm Pratik Kankarej</h1>
-
-<h3 align="center">A Passionate Full Stack Developer from India</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pratikk2001&label=Profile%20views&color=0e75b6&style=flat" alt="pratikk2001" /> </p>
-
 <div align="center">
-  <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pratikk2001&column=8"/>
-  </a>
-</div>
-</br>
 
+# Hi there, I'm Pratik Kankarej 👋
 
-👯 I’m open to collaborating with Full Stack Developers on impactful projects
+### Passionate Full Stack Developer from India
 
-🤝 Keen to learn and work with new technologies to build scalable solutions
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Scalable+Web+Apps;Always+Learning+New+Tech" alt="Typing SVG" />
 
-🌱 Currently working with Next.js, React.js, Node.js, and Express.js
-
-💬 Feel free to ask me about full-stack web development, project setup, and problem-solving
-
-📫 How to reach me: pratikkankarej18@gmail.com
-
-
-## 🌐 Connect with me:
-<p align="left">
-<a href="https://www.linkedin.com/in/pratik-kankarej-942a93200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pratik-kankarej" height="30" width="40" /></a>
-<a href="https://instagram.com/pratik2211__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratik2211__" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100016783598685" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
-<a href="https://x.com/pratik_kankarej" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
-</p>
-</br>
-<h2>💻 Tech Stack:</h2>
 <p>
-   
-<a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-</a>
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40">
-</a>
-<a href="https://www.nodejs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40">
-</a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</a>
-<a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-</a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="MUI" width="40" height="40"/>
-</a>
+  <img src="https://komarev.com/ghpvc/?username=pratikk2001&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/pratikk2001?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub followers" />
+</p>
 
-<a href="https://nodemon.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodemon/nodemon-original.svg" alt="Nodemon" width="40" height="40"/>
-</a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-</a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-</a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg" alt="Vite" width="40" height="40"/>
-</a>
-<a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" alt="Netlify" width="40" height="40"/>
-</a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-</a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" >
-</a>
-<a href="https://pages.github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub Pages" width="40" height="40"/>
-</a>
-<a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
-</a>
+</div>
 
+---
 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40">
-</a>
+### 🚀 About Me
 
-<a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40"/>
+- 👯 Open to collaborating with Full Stack Developers on impactful projects
+- 🤝 Keen to learn and work with new technologies to build scalable solutions
+- 🌱 Currently working with **Next.js, React.js, Node.js, and Express.js**
+- 💬 Ask me about full-stack web development, project setup, and problem-solving
+- 📫 Reach me at **pratikkankarej18@gmail.com**
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/pratik-kankarej-942a93200/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+<a href="https://instagram.com/pratik2211__" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+<a href="https://www.facebook.com/profile.php?id=100016783598685" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
+<a href="https://x.com/pratik_kankarej" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+</a>
+<a href="mailto:pratikkankarej18@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 </p>
-</br></br>
- 
-## 📊 My Github Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pratikk2001&show_icons=true&theme=dark&combine" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikk2001&theme=dark&combine" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikk2001&theme=dark&combine"  />
-  <img src="https://github-contributor-stats.vercel.app/api?username=pratikk2001&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</p>
-</br>
 
-<hr>
+---
+
+### 💻 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,python,java,mui,bootstrap,vite,firebase,mongodb,mysql,aws,figma,vscode,git,github,wordpress,netlify" alt="Tech stack icons"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{pratikk2001}/count.svg" /></p> 
-<br></div>
+  <img src="https://github-profile-trophy.vercel.app/?username=pratikk2001&theme=algolia&column=7&margin-w=10&margin-h=10&no-bg=true" alt="GitHub Trophies"/>
+</div>
 
-<p align="center">
-<img align="" height='120px'  src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px'  />
-</p>
-<br>
+---
 
-<hr>
-<p align="center">
-  <i>Ask me anything I'am Happy to Help! as much as possible. <br>Pratik Kankarej</i>
-</p>
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pratikk2001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikk2001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=pratikk2001&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikk2001&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</div>
+
+---
+
+<div align="center">
+
+**Visitor Count**
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=pratikk2001.pratikk2001&color=0e75b6" alt="Visitor count" />
+
+<br/>
+
+<i>Ask me anything, I'm happy to help as much as possible! 🚀</i>
+<br/>
+<b>— Pratik Kankarej</b>
+
+</div>
