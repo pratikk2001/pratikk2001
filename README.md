@@ -25,18 +25,15 @@ I build full-stack web apps end to end — from a Figma mockup to a deployed, da
 <td width="50%" valign="top">
 
 ### 🛠️ What I Do
-
 - Design & ship full-stack apps (MERN-flavored)
 - Turn raw ideas into working, deployed products
 - Care about clean UI as much as clean code
 - Debug like it's a puzzle, not a chore
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🌱 What I'm Learning
-
 - **Generative AI** — LLM APIs, prompt engineering
 - Building **AI-powered features** into web apps (chatbots, RAG, agents)
 - Tools like **LangChain**, **OpenAI/Claude APIs**, vector databases
@@ -58,9 +55,7 @@ I build full-stack web apps end to end — from a Figma mockup to a deployed, da
 <th>AI / GenAI</th>
 <th>Tools & Design</th>
 </tr>
-
 <tr valign="top">
-
 <td>
 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
@@ -71,7 +66,6 @@ I build full-stack web apps end to end — from a Figma mockup to a deployed, da
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 </td>
-
 <td>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -80,7 +74,6 @@ I build full-stack web apps end to end — from a Figma mockup to a deployed, da
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 
 </td>
-
 <td>
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -90,7 +83,6 @@ I build full-stack web apps end to end — from a Figma mockup to a deployed, da
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 </td>
-
 <td>
 
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
@@ -99,7 +91,6 @@ I build full-stack web apps end to end — from a Figma mockup to a deployed, da
 ![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-8e2de2?style=flat-square)
 
 </td>
-
 <td>
 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -109,60 +100,51 @@ I build full-stack web apps end to end — from a Figma mockup to a deployed, da
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 
 </td>
-
 </tr>
 </table>
 
 <br/>
+## 🌐 Connect
 
----
+<p align="center">
 
-## 🏆 GitHub Trophies
+<a href="https://linkedin.com/in/pratik-kankarej-942a93200">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-<div align="center">
+<a href="mailto:pratikkankarej18@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
-<img src="https://github-profile-trophy.vercel.app/?username=pratikk2001&theme=tokyonight&column=7&margin-w=10&margin-h=10&no-frame=true&no-bg=true" />
+<a href="https://github.com/pratikk2001">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
-</div>
+</p>
 
----
+### 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pratikk2001&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikk2001&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"/>
-
-</div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=pratikk2001&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=pratikk2001&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikk2001&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikk2001&theme=tokyo-night&hide_border=true" width="700" />
 </div>
-
----
 
 <div align="center">
 
 **Visitor Count**
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=pratikk2001.pratikk2001&color=0e75b6"/>
-
-<br/><br/>
-
-<i>Ask me anything, I'm happy to help as much as possible! 🚀</i>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=pratikk2001.pratikk2001&color=0e75b6" alt="Visitor count" />
 
 <br/>
 
+<i>Ask me anything, I'm happy to help as much as possible! 🚀</i>
+<br/>
 <b>— Pratik Kankarej</b>
 
 </div>
