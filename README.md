@@ -104,6 +104,7 @@ I build full-stack web apps end to end — from a Figma mockup to a deployed, da
 </table>
 
 <br/>
+
 ### 🌐 Connect
 
 <p align="center">
