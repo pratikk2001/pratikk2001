@@ -132,6 +132,8 @@ I build full-stack web apps end to end — from a Figma mockup to a deployed, da
 
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikk2001&theme=tokyo-night&hide_border=true" style="max-width:700px; width:100%;" />
 </div>
