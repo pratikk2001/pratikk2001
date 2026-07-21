@@ -104,7 +104,7 @@ I build full-stack web apps end to end — from a Figma mockup to a deployed, da
 </table>
 
 <br/>
-## 🌐 Connect
+### 🌐 Connect
 
 <p align="center">
 
@@ -132,7 +132,7 @@ I build full-stack web apps end to end — from a Figma mockup to a deployed, da
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikk2001&theme=tokyo-night&hide_border=true" width="700" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikk2001&theme=tokyo-night&hide_border=true" style="max-width:700px; width:100%;" />
 </div>
 
 <div align="center">
