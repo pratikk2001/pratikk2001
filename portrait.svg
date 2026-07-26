@@ -1,0 +1,394 @@
+<svg viewBox="0 0 578.0 493" xmlns="http://www.w3.org/2000/svg" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace">
+  <style>
+    .glyph { font-size: 10px; fill: #5fc4ff; letter-spacing: 0.5px; }
+  </style>
+  <rect width="100%" height="100%" fill="transparent" />
+  
+    <g>
+      <clipPath id="clip0">
+        <rect x="10" y="3" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="0ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="14" class="glyph" clip-path="url(#clip0)" xml:space="preserve">                                                                                          </text>
+    </g>
+    <g>
+      <clipPath id="clip1">
+        <rect x="10" y="14" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="40ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="25" class="glyph" clip-path="url(#clip1)" xml:space="preserve">                                        '''                                               </text>
+    </g>
+    <g>
+      <clipPath id="clip2">
+        <rect x="10" y="25" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="80ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="36" class="glyph" clip-path="url(#clip2)" xml:space="preserve">                              ''''''''      ''.,;+*xXx~;:.                                </text>
+    </g>
+    <g>
+      <clipPath id="clip3">
+        <rect x="10" y="36" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="120ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="47" class="glyph" clip-path="url(#clip3)" xml:space="preserve">                     ''''''''''       '.:~*XOOO###########*.                              </text>
+    </g>
+    <g>
+      <clipPath id="clip4">
+        <rect x="10" y="47" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="160ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="58" class="glyph" clip-path="url(#clip4)" xml:space="preserve">                   ''.....'''' '.,;+*xX######OOOOOOOOOOOOO#O;  ''''''                     </text>
+    </g>
+    <g>
+      <clipPath id="clip5">
+        <rect x="10" y="58" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="200ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="69" class="glyph" clip-path="url(#clip5)" xml:space="preserve">                 ''........' ';X#######OOOOOOOOOOOOXXXXOOOOO#;  ''''''''                  </text>
+    </g>
+    <g>
+      <clipPath id="clip6">
+        <rect x="10" y="69" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="240ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="80" class="glyph" clip-path="url(#clip6)" xml:space="preserve">               ''.........' :x##OOOOOOOOXXXXXXXXO#OXXOXXOOXXOO~.  '''    '                </text>
+    </g>
+    <g>
+      <clipPath id="clip7">
+        <rect x="10" y="80" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="280ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="91" class="glyph" clip-path="url(#clip7)" xml:space="preserve">             ''..........' :O#OOXXOXXXXXXXXXXXXXX##OxXOxO##XXXOO~'                        </text>
+    </g>
+    <g>
+      <clipPath id="clip8">
+        <rect x="10" y="91" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="320ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="102" class="glyph" clip-path="url(#clip8)" xml:space="preserve">           '''..........'' ;OOOOOOXXXxXXXxxXX########OXXX###XXXO#,          '             </text>
+    </g>
+    <g>
+      <clipPath id="clip9">
+        <rect x="10" y="102" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="360ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="113" class="glyph" clip-path="url(#clip9)" xml:space="preserve">          ''''.........''''.xO######OOOOOO####Ox+~~+xxxXO#######O.           ''''         </text>
+    </g>
+    <g>
+      <clipPath id="clip10">
+        <rect x="10" y="113" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="400ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="124" class="glyph" clip-path="url(#clip10)" xml:space="preserve">        ''.......'''..'' .xOOO##########OX*~:,.'''''.'..,:*OO##~,          '''''''        </text>
+    </g>
+    <g>
+      <clipPath id="clip11">
+        <rect x="10" y="124" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="440ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="135" class="glyph" clip-path="url(#clip11)" xml:space="preserve">     '''.........'''''''' ;#O####*+~;:,,..''........,,.....xXX#~  ''       '''''''''      </text>
+    </g>
+    <g>
+      <clipPath id="clip12">
+        <rect x="10" y="135" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="480ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="146" class="glyph" clip-path="url(#clip12)" xml:space="preserve">    '''........'''''''''' ,OOOO#x.......................,,,xXXOx            '''''''''     </text>
+    </g>
+    <g>
+      <clipPath id="clip13">
+        <rect x="10" y="146" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="520ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="157" class="glyph" clip-path="url(#clip13)" xml:space="preserve">   '..,,,,,....''''''''''' +OOX#*................,:::::,..,xOXOx             '''''''''    </text>
+    </g>
+    <g>
+      <clipPath id="clip14">
+        <rect x="10" y="157" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="560ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="168" class="glyph" clip-path="url(#clip14)" xml:space="preserve">  '.,,,,,,,,....'''''''''' 'XOXO~,~*xXXXx+,....,x###OOOOx~.~OO#+              ''''''''    </text>
+    </g>
+    <g>
+      <clipPath id="clip15">
+        <rect x="10" y="168" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="600ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="179" class="glyph" clip-path="url(#clip15)" xml:space="preserve">  '.,,::,,,,....''....'''.. ,OOX+xxx******:...,;~;;~+~;~~+,,X##, ''             '''''''   </text>
+    </g>
+    <g>
+      <clipPath id="clip16">
+        <rect x="10" y="179" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="640ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="190" class="glyph" clip-path="url(#clip16)" xml:space="preserve">  '.,::::,,.....'......''..' ~#+::;~~xx;,:;,..,;,,,*X+:;,.,,X#x  ''          '  '''''''   </text>
+    </g>
+    <g>
+      <clipPath id="clip17">
+        <rect x="10" y="190" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="680ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="201" class="glyph" clip-path="url(#clip17)" xml:space="preserve"> ',,,::::,,.....'.......'.''':#;,,;;,~+,.,,,..,,.......,,,,,X#~.   '         ''''''''''   </text>
+    </g>
+    <g>
+      <clipPath id="clip18">
+        <rect x="10" y="201" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="720ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="212" class="glyph" clip-path="url(#clip18)" xml:space="preserve"> ':::;;:,,,.....''......''';*+X;:,,,,..,,,,,.,,,,,,,,,,,,,,,x~:+'           ''''''''''''  </text>
+    </g>
+    <g>
+      <clipPath id="clip19">
+        <rect x="10" y="212" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="760ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="223" class="glyph" clip-path="url(#clip19)" xml:space="preserve">'.:;;~;::,,,,............''+x*x::,:,,,,,,,,,..,,,,,,,,,,,,,:*;:+.          '''''''''''''''</text>
+    </g>
+    <g>
+      <clipPath id="clip20">
+        <rect x="10" y="223" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="800ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="234" class="glyph" clip-path="url(#clip20)" xml:space="preserve">..:;~~;::,,,,,,...........'~+++::::,,,,,:;;:,:;::..,,,,,,,,~;~;~'         ''''''''''''''''</text>
+    </g>
+    <g>
+      <clipPath id="clip21">
+        <rect x="10" y="234" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="840ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="245" class="glyph" clip-path="url(#clip21)" xml:space="preserve">..,:;~;;::,,,,,,,,,,...'..',*+~~::,:,,..,xOXxxx+;,...,,,,,;+;+~.         '''''''''''''''' </text>
+    </g>
+    <g>
+      <clipPath id="clip22">
+        <rect x="10" y="245" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="880ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="256" class="glyph" clip-path="url(#clip22)" xml:space="preserve">..,,;~~;::,,::,,,,,,,..'..' ++~*::::,:+xxXxxxxxxXXX+,,,,,,x;:~.          '''''''''''''''' </text>
+    </g>
+    <g>
+      <clipPath id="clip23">
+        <rect x="10" y="256" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="920ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="267" class="glyph" clip-path="url(#clip23)" xml:space="preserve">'.,:;~~~;::::::::,,,,....,,.:+;x*:::,*x+,......,;+~~,,,,.*x,:,  '''''   '''''''''''''''' '</text>
+    </g>
+    <g>
+      <clipPath id="clip24">
+        <rect x="10" y="267" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="960ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="278" class="glyph" clip-path="url(#clip24)" xml:space="preserve"> ',;;~+~;;:::::::::,,,,,,:;;:;:~#x;,,,.,:~~~~++~;,......+O;   '''''''  '''''''''''''''''  </text>
+    </g>
+    <g>
+      <clipPath id="clip25">
+        <rect x="10" y="278" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="1000ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="289" class="glyph" clip-path="url(#clip25)" xml:space="preserve"> ':;;~+~~;:::::::,,,,,,:::::;;,,*#X:.,,..,;x*~,.....,,,*O+,  '''''''''''''''''''''''''.'  </text>
+    </g>
+    <g>
+      <clipPath id="clip26">
+        <rect x="10" y="289" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="1040ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="300" class="glyph" clip-path="url(#clip26)" xml:space="preserve"> ':;;~~~~;:::::::,,,,,,:::,,:;:.,x#O~:...'.,,.''.,+xOXOX;;*+, ''''''''''''''''''''''''.'  </text>
+    </g>
+    <g>
+      <clipPath id="clip27">
+        <rect x="10" y="300" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="1080ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="311" class="glyph" clip-path="url(#clip27)" xml:space="preserve">  ,~~~~~~;;;::::::,,,,,,::::::::..~O##X+;;~~*x++xO##Ox~,,*XXX:  '''''''''''''''''''''''   </text>
+    </g>
+    <g>
+      <clipPath id="clip28">
+        <rect x="10" y="311" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="1120ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="322" class="glyph" clip-path="url(#clip28)" xml:space="preserve">  ';~~;~~;;;;;::::,,,,,,,,,::::;;:.';XO#########Ox*~:,:~xxxxXO+'   ''''''''''''''''''''   </text>
+    </g>
+    <g>
+      <clipPath id="clip29">
+        <rect x="10" y="322" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="1160ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="333" class="glyph" clip-path="url(#clip29)" xml:space="preserve">   .;~;;;;;;;;;;::::,,,,,,,,:::;;;;, :~+++++++~;::..:+xx*xxxxxOx;,.'    '''''''''''..'    </text>
+    </g>
+    <g>
+      <clipPath id="clip30">
+        <rect x="10" y="333" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="1200ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="344" class="glyph" clip-path="url(#clip30)" xml:space="preserve">    .;;;;~~~~~;;;;;:::::::::::::;;;,.;*:::::,,,..,;*xx****xxxXXXOOXx+;,'    '''''...''    </text>
+    </g>
+    <g>
+      <clipPath id="clip31">
+        <rect x="10" y="344" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="1240ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="355" class="glyph" clip-path="url(#clip31)" xml:space="preserve">     ,;;;;;~~~~~~~;;;;;;;;:::::::,.:*XX:.....'.:+xx*******xxXXxXXXXXOOOXx+:,'  ''''''     </text>
+    </g>
+    <g>
+      <clipPath id="clip32">
+        <rect x="10" y="355" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="1280ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="366" class="glyph" clip-path="url(#clip32)" xml:space="preserve">      .;;;;;;;~~~~~~~;;;;;::::,,,:~OXxx*....:+xxxxx*****xXXXxxxxXXXXXXXXOOOOX*~:..''      </text>
+    </g>
+    <g>
+      <clipPath id="clip33">
+        <rect x="10" y="366" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="1320ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="377" class="glyph" clip-path="url(#clip33)" xml:space="preserve">       ':;;;;;;;~~~~~;;;;;;:::;~*xOx**x+..:+xx****xx**xxXXxxxXXxxxxxxxxXXxxXXOOOO*.       </text>
+    </g>
+    <g>
+      <clipPath id="clip34">
+        <rect x="10" y="377" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="1360ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="388" class="glyph" clip-path="url(#clip34)" xml:space="preserve">         ,;;;;;;;;;;;;;;;;,:+xXXxX#x**X;.:**+****x**xXXXxxxXXXXXXxxxxxxxxxXXXXXO+.        </text>
+    </g>
+    <g>
+      <clipPath id="clip35">
+        <rect x="10" y="388" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="1400ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="399" class="glyph" clip-path="url(#clip35)" xml:space="preserve">          ',;;;;;:::::;;::+XOXxxXXX#xX***XX*++++*xxxxxxxxxxXXXXXXxxxxxxxxxxxXO*,          </text>
+    </g>
+    <g>
+      <clipPath id="clip36">
+        <rect x="10" y="399" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="1440ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="410" class="glyph" clip-path="url(#clip36)" xml:space="preserve">            ':;;:::,,,:,;OOXXxxxXx*OOx****xxxxxxXXxxxxxxxxxXXXXxXXxxxxxxxxXX*:            </text>
+    </g>
+    <g>
+      <clipPath id="clip37">
+        <rect x="10" y="410" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="1480ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="421" class="glyph" clip-path="url(#clip37)" xml:space="preserve">              ':;:,.....OOXXxxxXXxxOX****x***xxxxxxxxxxxxxXXXXXxXXXXxxXXXx+,              </text>
+    </g>
+    <g>
+      <clipPath id="clip38">
+        <rect x="10" y="421" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="1520ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="432" class="glyph" clip-path="url(#clip38)" xml:space="preserve">                ',,,..';#XXXxxxxXxxxXXxxxxxxxxxxxxXXXXXXxxXXXXXXXXXXXOX*;.                </text>
+    </g>
+    <g>
+      <clipPath id="clip39">
+        <rect x="10" y="432" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="1560ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="443" class="glyph" clip-path="url(#clip39)" xml:space="preserve">                   '..'x#OXxxxxxxOXxxOxxxxxxxxxxxxXXXXXXXXXXXXXXXOOX*;.                   </text>
+    </g>
+    <g>
+      <clipPath id="clip40">
+        <rect x="10" y="443" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="1600ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="454" class="glyph" clip-path="url(#clip40)" xml:space="preserve">                      ':+xXXXXXxXOxxXXxXXxxXXXXXXXXXXXXXXXXOOOOXx+:.                      </text>
+    </g>
+    <g>
+      <clipPath id="clip41">
+        <rect x="10" y="454" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="1640ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="465" class="glyph" clip-path="url(#clip41)" xml:space="preserve">                          ',;~*xxOXXXxXXXXXXXXXXXXXXOOOOOXX*+;,'                          </text>
+    </g>
+    <g>
+      <clipPath id="clip42">
+        <rect x="10" y="465" width="0" height="13">
+          <animate attributeName="width" from="0" to="558.0"
+            begin="1680ms" dur="260ms" fill="freeze" />
+        </rect>
+      </clipPath>
+      <text x="10" y="476" class="glyph" clip-path="url(#clip42)" xml:space="preserve">                               '.,:;~++*xxXXXXXXXxx**+~:,.'                               </text>
+    </g>
+</svg>
